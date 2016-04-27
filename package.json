@@ -1,0 +1,16 @@
+{
+  "title": "Gestalt Block Tree",
+  "name": "gestaltbt",
+  "version": "1.0.0",
+  "description": "Extracting block trees from web pages using Gestalt laws of grouping",
+  "main": "index.js",
+  "author": "MarcoXZh3",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
